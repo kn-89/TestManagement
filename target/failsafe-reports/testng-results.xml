@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testng Suite" duration-ms="6044" started-at="2020-08-30T13:50:00Z" finished-at="2020-08-30T13:50:06Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="6044" started-at="2020-08-30T13:50:00Z" finished-at="2020-08-30T13:50:06Z">
+      <class name="tmtTestCase">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tmtTestCase@e580929]" name="test1" duration-ms="1009" started-at="2020-08-30T13:50:00Z" finished-at="2020-08-30T13:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tmtTestCase@e580929]" name="test2" duration-ms="1001" started-at="2020-08-30T13:50:01Z" finished-at="2020-08-30T13:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tmtTestCase@e580929]" name="test3" duration-ms="1001" started-at="2020-08-30T13:50:02Z" finished-at="2020-08-30T13:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:tmtTestCase@e580929]" name="test4" duration-ms="1000" started-at="2020-08-30T13:50:03Z" finished-at="2020-08-30T13:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:tmtTestCase@e580929]" name="test5" duration-ms="1000" started-at="2020-08-30T13:50:04Z" finished-at="2020-08-30T13:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:tmtTestCase@e580929]" name="test6" duration-ms="1000" started-at="2020-08-30T13:50:05Z" finished-at="2020-08-30T13:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- tmtTestCase -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- Testng Suite -->
+</testng-results>

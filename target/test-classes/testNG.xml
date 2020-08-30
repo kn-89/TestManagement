@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--        parallel="tests" thread-count="1"parallel="instances"-->
+<suite name="Testng Suite"  data-provider-thread-count="4" >
+    <test name="SmokeTest">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="tmtTestCase" />
+        </classes>
+    </test>
+</suite>

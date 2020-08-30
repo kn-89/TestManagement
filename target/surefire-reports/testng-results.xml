@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tmtTestCase" duration-ms="6065" started-at="2020-08-30T13:49:52Z" finished-at="2020-08-30T13:49:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6065" started-at="2020-08-30T13:49:52Z" finished-at="2020-08-30T13:49:59Z">
+      <class name="tmtTestCase">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tmtTestCase@7dc36524]" name="test1" duration-ms="1017" started-at="2020-08-30T13:49:52Z" finished-at="2020-08-30T13:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tmtTestCase@7dc36524]" name="test2" duration-ms="1000" started-at="2020-08-30T13:49:53Z" finished-at="2020-08-30T13:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tmtTestCase@7dc36524]" name="test3" duration-ms="1000" started-at="2020-08-30T13:49:54Z" finished-at="2020-08-30T13:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:tmtTestCase@7dc36524]" name="test4" duration-ms="1002" started-at="2020-08-30T13:49:55Z" finished-at="2020-08-30T13:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:tmtTestCase@7dc36524]" name="test5" duration-ms="1001" started-at="2020-08-30T13:49:56Z" finished-at="2020-08-30T13:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:tmtTestCase@7dc36524]" name="test6" duration-ms="1001" started-at="2020-08-30T13:49:58Z" finished-at="2020-08-30T13:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- tmtTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tmtTestCase -->
+</testng-results>
